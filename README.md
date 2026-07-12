@@ -57,17 +57,11 @@
 
 🥉 Призёр регионального чемпионата **«Профессионалы»** по компетенции **«Веб-технологии»**
 
-🏆 Обладатель специальной награды от индустриального партнёра за высокие результаты чемпионата.
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saven0k&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saven0k&layout=compact&hide_border=true&theme=transparent"/>
 
 <br><br>
 
