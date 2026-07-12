@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://t.me/owl11112">
-    <img src="https://img.shields.io/badge/Telegram-@owl11112-26A5E4?logo=telegram&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Telegram-@RSresume-26A5E4?logo=telegram&style=for-the-badge">
 </a>
 
 </div>
@@ -68,28 +68,8 @@
 
 🥉 Призёр регионального чемпионата **«Профессионалы»** по компетенции **«Веб-технологии»**
 
-🏆 Обладатель специальной награды от индустриального партнёра за высокие результаты на чемпионате.
-
 ---
 
-# 🎓 Образование
-
-**Хекслет Колледж**
-
-> Информационные системы и программирование
-
-**Московский инновационный университет**
-
-> Прикладная информатика
-
----
-
-# 🌍 Языки
-
-- 🇷🇺 Русский — Родной
-- 🇬🇧 Английский — B2
-
----
 
 # 📊 GitHub
 
@@ -109,7 +89,7 @@
 
 # 📫 Контакты
 
-- Telegram — **@owl11112**
+- Telegram — **@RSresume**
 - Email — **romasav2017@gmail.com**
 - GitHub — **github.com/Saven0k**
 
