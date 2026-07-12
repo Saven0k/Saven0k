@@ -1,105 +1,126 @@
-
 <div align="center">
 
 # Роман Савенков
 
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Создаю+современные+веб-приложения" />
 
-Создаю современные веб-приложения, уделяя внимание архитектуре, производительности и удобству использования.
+<br>
 
-[Telegram](https://t.me/owl11112) •
-[GitHub](https://github.com/Saven0k) •
-Email: **romasav2017@gmail.com**
+<a href="https://github.com/Saven0k">
+    <img src="https://img.shields.io/badge/GitHub-Saven0k-181717?logo=github&style=for-the-badge">
+</a>
+
+<a href="https://t.me/owl11112">
+    <img src="https://img.shields.io/badge/Telegram-@owl11112-26A5E4?logo=telegram&style=for-the-badge">
+</a>
 
 </div>
 
 ---
 
-## 👋 Обо мне
+# 👋 Привет!
 
-Я Full Stack разработчик из Санкт-Петербурга.
+Меня зовут **Роман**.
 
-Люблю превращать идеи в полноценные продукты — от проектирования архитектуры до развёртывания готового приложения. Стараюсь писать понятный, поддерживаемый код и постоянно изучаю новые технологии.
+Я Full Stack разработчик из Санкт-Петербурга, который любит создавать современные веб-приложения с чистой архитектурой, удобным интерфейсом и качественным пользовательским опытом.
 
-Основные интересы:
-
-- разработка современных веб-приложений;
-- проектирование архитектуры;
-- оптимизация производительности;
-- качественный UI/UX;
-- чистый код и лучшие практики разработки.
+Для меня разработка — это не просто написание кода. Мне нравится продумывать структуру проекта, оптимизировать производительность, улучшать UX и находить красивые технические решения.
 
 ---
 
-## ⚙️ Технологии
+# 🚀 Чем занимаюсь
+
+- Разрабатываю Full Stack веб-приложения
+- Проектирую архитектуру приложений
+- Создаю быстрые и адаптивные интерфейсы
+- Разрабатываю REST API
+- Работаю с базами данных
+- Автоматизирую сборку и деплой
+- Постоянно изучаю новые технологии
+
+---
+
+# 🛠️ Технологии
+
+<div align="center">
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,vite,redux" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,html,css,sass&perline=9"/>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django&perline=6"/>
 
-### Базы данных и инструменты
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&perline=3"/>
 
----
+### Tools
 
-## 🏆 Достижения
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&perline=5"/>
 
-- 🥉 Призёр регионального чемпионата **«Профессионалы»** по компетенции **«Веб-технологии»**
-- 🏆 Получатель специальной награды от индустриального партнёра за высокие результаты на чемпионате
+</div>
 
 ---
 
-## 🎓 Образование
+# 🏆 Достижения
+
+🥉 Призёр регионального чемпионата **«Профессионалы»** по компетенции **«Веб-технологии»**
+
+🏆 Обладатель специальной награды от индустриального партнёра за высокие результаты на чемпионате.
+
+---
+
+# 🎓 Образование
 
 **Хекслет Колледж**
 
-Информационные системы и программирование
+> Информационные системы и программирование
 
 **Московский инновационный университет**
 
-Прикладная информатика
+> Прикладная информатика
 
 ---
 
-## 🌍 Языки
+# 🌍 Языки
 
-| Язык | Уровень |
-|------|----------|
-| 🇷🇺 Русский | Родной |
-| 🇬🇧 Английский | B2 |
+- 🇷🇺 Русский — Родной
+- 🇬🇧 Английский — B2
 
 ---
 
-## 📈 GitHub
+# 📊 GitHub
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Saven0k&show_icons=true&hide_border=true&theme=transparent)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saven0k&show_icons=true&hide_border=true&theme=transparent"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saven0k&hide_border=true&theme=transparent)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saven0k&layout=compact&hide_border=true&theme=transparent"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saven0k&layout=compact&hide_border=true&theme=transparent)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Saven0k&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
+# 📫 Контакты
+
+- Telegram — **@owl11112**
+- Email — **romasav2017@gmail.com**
+- GitHub — **github.com/Saven0k**
+
+---
+
 <div align="center">
 
-**Спасибо, что посетили мой профиль!**
+### Спасибо, что заглянули!
 
-Буду рад новым знакомствам, сотрудничеству и интересным проектам.
+Всегда открыт к интересным проектам, новым знакомствам и профессиональному развитию.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=footer"/>
 
 </div>
-
