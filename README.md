@@ -74,10 +74,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saven0k&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saven0k&layout=compact&hide_border=true&theme=transparent"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Saven0k&theme=transparent&hide_border=true"/>
