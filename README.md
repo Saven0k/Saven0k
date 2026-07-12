@@ -1,101 +1,115 @@
+
 <div align="center">
 
-# Роман Савенков
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F8EF7,100:7C3AED&text=Roman%20Savenkov&fontSize=44&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+modern+web+applications" />
 
 <br>
 
 <a href="https://github.com/Saven0k">
-    <img src="https://img.shields.io/badge/GitHub-Saven0k-181717?logo=github&style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-Saven0k-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://t.me/owl11112">
-    <img src="https://img.shields.io/badge/Telegram-@RSresume-26A5E4?logo=telegram&style=for-the-badge">
+<a href="https://t.me/RSresume">
+<img src="https://img.shields.io/badge/Telegram-@RSresume-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
 </div>
 
 ---
 
-# 👋 Привет!
+## 👋 Привет!
 
-Меня зовут **Роман**.
+Я **Роман Савенков** — Full Stack разработчик из Санкт-Петербурга.
 
-Я Full Stack разработчик из Санкт-Петербурга, который любит создавать современные веб-приложения с чистой архитектурой, удобным интерфейсом и качественным пользовательским опытом.
+Разрабатываю современные веб-приложения полного цикла: от проектирования архитектуры и создания интерфейсов до разработки серверной части, работы с базами данных и деплоя.
 
-Для меня разработка — это не просто написание кода. Мне нравится продумывать структуру проекта, оптимизировать производительность, улучшать UX и находить красивые технические решения.
-
----
-
-# 🚀 Чем занимаюсь
-
-- Разрабатываю Full Stack веб-приложения
-- Проектирую архитектуру приложений
-- Создаю быстрые и адаптивные интерфейсы
-- Разрабатываю REST API
-- Работаю с базами данных
-- Автоматизирую сборку и деплой
-- Постоянно изучаю новые технологии
+Люблю чистый код, продуманную архитектуру и удобные интерфейсы.
 
 ---
 
-# 🛠️ Технологии
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,sass&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,sass,redux" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&perline=3"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&perline=5"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
 
 </div>
 
 ---
 
-# 🏆 Достижения
+## 🏆 Достижения
 
 🥉 Призёр регионального чемпионата **«Профессионалы»** по компетенции **«Веб-технологии»**
 
+🏆 Обладатель специальной награды от индустриального партнёра за высокие результаты чемпионата.
+
 ---
 
-
-# 📊 GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saven0k&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saven0k&layout=compact&hide_border=true&theme=transparent"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Saven0k&theme=transparent&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saven0k&theme=github-compact&hide_border=true"/>
+
 </div>
 
 ---
 
-# 📫 Контакты
+## 📫 Контакты
 
-- Telegram — **@RSresume**
-- Email — **romasav2017@gmail.com**
-- GitHub — **github.com/Saven0k**
+<div align="center">
+
+<a href="https://t.me/RSresume">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+
+<a href="mailto:romasav2017@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Saven0k">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Спасибо, что заглянули!
-
-Всегда открыт к интересным проектам, новым знакомствам и профессиональному развитию.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=footer"/>
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+>
+> **Harold Abelson**
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:7C3AED&height=120&section=footer"/>
+
