@@ -2,7 +2,6 @@
 
 # Роман Савенков
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Создаю+современные+веб-приложения" />
 
 <br>
 
@@ -46,11 +45,11 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite,html,css,sass&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,sass&perline=9"/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi&perline=6"/>
 
 ### Database
 
