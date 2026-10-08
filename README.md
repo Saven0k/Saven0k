@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/Telegram-@RSresume-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"/>
 </a>
 
+<a href="https://saven0k.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Projects-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Портфолио / Portfolio"/>
+</a>
+
 <a href="https://saven0k.github.io/resume/">
 <img src="https://img.shields.io/badge/Resume-Roman_Savenkov-4F8EF7?style=for-the-badge" alt="Резюме / Resume"/>
 </a>
@@ -31,6 +35,34 @@
 Уделяю внимание понятным пользовательским сценариям и поддерживаемому коду. Опыт работы с **NestJS и Express** помогает учитывать контракт API и эффективно взаимодействовать с backend-разработчиками.
 
 ---
+
+## 🚀 Избранные проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎨 Gallery</h3>
+<p>Платформа для художников: каталог работ, профили авторов и личный кабинет.</p>
+<p><strong>Frontend:</strong> интерфейсы публикации и редактирования контента, работа с формами и интеграция с REST API.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>SCSS</code><br>API: NestJS · PostgreSQL</p>
+<p><a href="https://github.com/Saven0k/ArtGallary"><strong>Посмотреть код →</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏭 Digital Control</h3>
+<p>Интерфейс каталога сценариев промышленной видеоаналитики.</p>
+<p><strong>Frontend:</strong> фильтрация по видам работ, раскрывающиеся карточки сценариев и адаптивная вёрстка.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>CSS</code></p>
+<p><a href="https://github.com/Saven0k/Digitalcontrol"><strong>Посмотреть код →</strong></a></p>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ## ⚡ Tech Stack
 
