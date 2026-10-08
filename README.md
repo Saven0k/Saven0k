@@ -97,7 +97,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saven0k&theme=github-compact&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-activity-graph.luckylinux.dev/graph?username=Saven0k&theme=github-compact&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
