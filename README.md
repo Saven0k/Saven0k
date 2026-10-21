@@ -44,6 +44,7 @@
 
 <h3>🎨 Gallery</h3>
 <p>Платформа для художников: каталог работ, профили авторов и личный кабинет.</p>
+<p><strong>В цифрах:</strong> 4 пользовательские роли + гостевой доступ · 3 языка интерфейса: RU / EN / ZH.</p>
 <p><strong>Frontend:</strong> интерфейсы публикации и редактирования контента, работа с формами и интеграция с REST API.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>SCSS</code><br>API: NestJS · PostgreSQL</p>
 <p><a href="https://github.com/Saven0k/ArtGallary"><strong>Посмотреть код →</strong></a></p>
@@ -53,6 +54,7 @@
 
 <h3>🏭 Digital Control</h3>
 <p>Интерфейс каталога сценариев промышленной видеоаналитики.</p>
+<p><strong>В цифрах:</strong> 32 сценария в 2 категориях: 18 — бурение, 14 — ТКРС.</p>
 <p><strong>Frontend:</strong> фильтрация по видам работ, раскрывающиеся карточки сценариев и адаптивная вёрстка.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>CSS</code></p>
 <p><a href="https://github.com/Saven0k/Digitalcontrol"><strong>Посмотреть код →</strong></a></p>
@@ -120,6 +122,12 @@
 ---
 
 ## 📊 GitHub Analytics
+
+| Публичных репозиториев | Репозиториев на TypeScript |
+| :---: | :---: |
+| **9** | **6** |
+
+<sub>Без форков. Данные на 21.10.2026.</sub>
 
 <div align="center">
 
